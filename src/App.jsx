@@ -1,9 +1,9 @@
-import Navbar from "./components/navbar";
+import { TabsDemo } from "./components/navbar";
 
 function App() {
   return (
     <>
-      <Navbar />
+      <TabsDemo />
       <p>halo</p>
     </>
   );
